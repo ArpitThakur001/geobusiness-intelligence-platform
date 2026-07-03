@@ -34,4 +34,4 @@ AI & Data Science Student
 
 ---
 
-> **Note:** Only use the same Live Demo if you have permission from the original owner or if it is your own deployment. Otherwise, it's better to deploy your own copy (for example using Vercel, Netlify, or Google Cloud Run) and replace the link with your deployment.
+
